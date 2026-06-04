@@ -7,22 +7,22 @@ import img5 from "../assets/images/img5.jpg";
 export const story = [
   {
     image: img1,
-    text: "Hiiii Goluuuu, Just wanted to tell you somethingggg...",
+    text: "Elloooo mi loveeee, mi lil koalaaa, mi Goluuuu 🥺❤️ I wanted to tell you somethingggg... so sit down and listen to your baby 😌✨",
   },
   {
     image: img2,
-    text: "Do you remember this picture? Our first picture that you took ✨",
+    text: "Do you remember thissss? 🥺 Our very first picture togetherrrr. Looking at it still gives me butterflies aaahhhh 😭❤️",
   },
   {
     image: img3,
-    text: "Our first trip as a hackathon... 🥺",
+    text: "Our first date outttt 🥺❤️ Okayyy technically it was more of a double date 🤭 but we were matchinggg and that's all that matters to me 😌✨AHHHHH THIS DAYYYY 😭❤️ We were matching and looked sooo freaking cute togetherrrr. I swear I couldn't stop looking at you that day 😌✨ jskdjaklsjdklajskldjalksjd",
   },
   {
     image: img4,
-    text: "A day full of enjoyymenttt 😌",
+    text: "Ahhhhh that day we were matching and looked sooo gooo togetherrrrr i freakinnn loveddd ittt aaahhhh jksakldjklajskldjaksjdkasjdlasd 😌",
   },
   {
     image: img5,
-    text: "Yeah, sometimes I do things that make you angry, and I am sorry for that. But just like this image, I choose US. So maaf kar de goluu ❤️",
+    text: "And then there’s this one… our first Photo Booth pictures together 🥺❤️. Looking at these photos reminds me of all the memories we’ve made and how lucky I am to have you. I know I mess up sometimes and today I forgot to call you back, and I’m really sorry for that 😭❤️. But no matter what, I’ll always choose you, my love. Thank you for being my comfort, my happiness, and my favorite person. I love you, mi Goluuu 🥺🫶❤️",
   },
 ];

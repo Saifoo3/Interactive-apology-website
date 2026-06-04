@@ -103,7 +103,7 @@ const Question = ({ onYes }) => {
       <div className="relative bg-white/90 backdrop-blur-xl rounded-[3rem] p-14 shadow-2xl text-center max-w-xl w-full">
 
         <h2 className="text-4xl font-semibold text-gray-700 mb-14">
-          Kya ab tumhari narazagi kahatm ho gyii? 🥺
+          Kya meri Goluuu apne bhulakkad boyfriend ko maaf kar degii? 🥺❤️ Because I know I messed up… but I still wanna be your favorite person. 😭
         </h2>
 
         {/* Button Area */}
@@ -147,7 +147,7 @@ const Question = ({ onYes }) => {
         {/* Cute message after No disappears */}
         {noClicks >= 5 && (
           <p className="mt-10 text-lg text-gray-500 italic">
-            Ab to sirf ek hi jawab bachta hai… 😌💖
+            Plijjjjj meriiii jaaannnnnnnnnnnnnnn 😌💖
           </p>
         )}
       </div>
